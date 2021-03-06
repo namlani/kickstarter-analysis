@@ -10,19 +10,19 @@ To analysis on Kickstarter data in order to uncover trends.
 ### Analysis of Outcomes Based on Launch Date
 The rate of success, failure and cancelled Kickstarters under the Theater Category based on the month of their launch date is compared.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/5934390/110219592-43a0ce80-7e8e-11eb-9c5f-778e07349c35.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/5934390/110219592-43a0ce80-7e8e-11eb-9c5f-778e07349c35.png){:height="50%" width="50%"}
 
 ### Analysis of Outcomes Based on Goals
 
 The percentage of successful, failed, and canceled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110219579-279d2d00-7e8e-11eb-9b54-4d4ab552581e.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110219579-279d2d00-7e8e-11eb-9b54-4d4ab552581e.png){:height="50%" width="50%"}
 
 ### Challenges and Difficulties Encountered
 
 One challenge encountered was a discrepancy in the appearance of the expected chart vs the actual chart produced for Outcomes Based on Goals. Determined to be the result of an error in the data used for expected chart vs the data provided for the creation of the actual chart.
 
-![image](https://user-images.githubusercontent.com/5934390/110219628-6b903200-7e8e-11eb-87ae-c5b5123e40ff.png)
+![image](https://user-images.githubusercontent.com/5934390/110219628-6b903200-7e8e-11eb-87ae-c5b5123e40ff.png){:height="50%" width="50%"}
 
 ## Results
 
