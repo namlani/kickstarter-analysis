@@ -10,7 +10,8 @@ To analysis on Kickstarter data in order to uncover trends.
 ### Analysis of Outcomes Based on Launch Date
 The rate of success, failure and cancelled Kickstarters under the Theater Category based on the month of their launch date is compared.
 
-Screenshot of chart
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/5934390/110219592-43a0ce80-7e8e-11eb-9c5f-778e07349c35.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
