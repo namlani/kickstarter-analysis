@@ -37,10 +37,9 @@ Screenshots of expected vs produced.
 The fundraising goal is not much of a deciding factor on whether kickstarters that fall under the Plays subcategory are successful, considering most succeed regardless of the amount required to meet the fundraising goal.
 
 - What are some limitations of this dataset?
-Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline because it was successful in its fundraising goal before deadline, and did not want to incur any additional contributions.
+  Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline     because it was successful in its fundraising goal before deadline, and did not want to incur any additional contributions.
 - What are some other possible tables and/or graphs that we could create?
-A table and graph can be created to show on average how long it might take for these types of kickstarters to ultimately reach their goal.
-
-A table and graph can be created to show how many kickstarters that are designated as staff_picks are successful.  
+  1. A table and graph can be created to show on average how long it might take for these types of kickstarters to ultimately reach their goal.
+  2. A table and graph can be created to show how many kickstarters that are designated as staff_picks are successful.  
 
 
