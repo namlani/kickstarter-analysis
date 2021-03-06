@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Performing analysis on Kickstarter data to uncover trends
+To analysis on Kickstarter data in order to uncover trends.
 
 ## Analysis and Challenges
 
