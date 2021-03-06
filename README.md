@@ -28,7 +28,7 @@ One challenge encountered was a discrepancy in the appearance of the expected ch
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  1.	Kickstarters under the theater category or more successful during summer months considering the higher rates of success during the months between May and Aug.
+  1.	Kickstarters under the theater category are more successful during summer months considering the higher rates of success during months between May and Aug.
   2.	Kickstarters under the theater category are rarely cancelled, most are ran until they are successful or fail.
 
 - What can you conclude about the Outcomes based on Goals?
