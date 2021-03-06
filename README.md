@@ -16,7 +16,7 @@ Screenshot of chart
 
 The percentage of successful, failed, and canceled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
 
-Screenshot of chart
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110219579-279d2d00-7e8e-11eb-9b54-4d4ab552581e.png)
 
 ### Challenges and Difficulties Encountered
 
