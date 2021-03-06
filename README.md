@@ -12,7 +12,6 @@ The rate of success, failure and cancelled Kickstarters under the Theater Catego
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/5934390/110219592-43a0ce80-7e8e-11eb-9c5f-778e07349c35.png)
 
-
 ### Analysis of Outcomes Based on Goals
 
 The percentage of successful, failed, and canceled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
@@ -23,8 +22,8 @@ The percentage of successful, failed, and canceled Kickstarters under the Plays 
 
 One challenge encountered was a discrepancy in the appearance of the expected chart vs the actual chart produced for Outcomes Based on Goals. Determined to be the result of an error in the data used for expected chart vs the data provided for the creation of the actual chart.
 
-Screenshots of expected vs produced. 
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/5934390/110219592-43a0ce80-7e8e-11eb-9c5f-778e07349c35.png)
+![image](https://user-images.githubusercontent.com/5934390/110219628-6b903200-7e8e-11eb-87ae-c5b5123e40ff.png)
 
 ## Results
 
