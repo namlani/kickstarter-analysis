@@ -33,11 +33,11 @@ One challenge encountered was a discrepancy in the appearance of the expected ch
 
 - What can you conclude about the Outcomes based on Goals?
 
-The fundraising goal is not much of a deciding factor on whether kickstarters that fall under the Plays subcategory are successful, considering most succeed regardless of the amount required to meet the fundraising goal.
+    The fundraising goal is not much of a deciding factor on whether kickstarters that fall under the Plays subcategory are successful, considering most succeed  regardless of the amount required to meet the fundraising goal.
 
 - What are some limitations of this dataset?
 
-Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline      because it was successful in its fundraising goal before deadline, and did not want to incur any additional contributions.
+    Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline      because it was successful in its fundraising goal before deadline, and did not want to incur any additional contributions.
 
 - What are some other possible tables and/or graphs that we could create?
 
