@@ -14,28 +14,28 @@ The rate of success, failure and cancelled Kickstarters under the Theater Catego
 
 ### Analysis of Outcomes Based on Goals
 
-The percentage of successful, failed, and canceled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
+The percentage of successful, failed, and cancelled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110250088-99857d00-7f47-11eb-8b24-2424a0927487.png)
 
 ### Challenges and Difficulties Encountered
 
-One challenge encountered was with one of the specifications around analayzing outcomes based on goals. There was a specification to capture kickstarters that have a goal of greater than $50000, but the expected chart depicted greater than or equal to $50000. In order for the analysis chart to match the expected charge, the specification had to be changed from greater than to greater than or equal to. This most likely was a typo by whomever wrote the specifications, but it is important that the specifications are accurate in order to ensure data is captured precisely.
+One challenge encountered was with one of the specifications around analayzing outcomes based on goals. There was a specification to capture kickstarters that have a goal of greater than $50000, but the expected chart depicted greater than or equal to $50000. In order for the analysis chart to match the expected chart, the specification had to be changed from greater than to greater than or equal to. This was most likely a typo by whomever provided the specifications, but it is important that the specifications are accurate in order to ensure data is captured precisely.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  1.	Kickstarters under the theater category are more successful during summer months considering the higher rates of success during months between May and Aug.
+  1.	Kickstarters under the theater category are more successful during summer months considering the higher rates of success during the months between from May to Aug.
   2.	Kickstarters under the theater category are rarely cancelled, most are ran until they are successful or fail.
 
 - What can you conclude about the Outcomes based on Goals?
 
-    The fundraising goal is not much of a deciding factor on whether kickstarters that fall under the Plays subcategory are successful, considering most succeed  regardless of the amount required to meet the fundraising goal.
+    The amount of the fundraising goal is not much of a deciding factor on whether kickstarters that fall under the Plays subcategory are successful, considering most succeed  regardless of the amount required to meet the fundraising goal.
 
 - What are some limitations of this dataset?
 
-    Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline      because it was successful in its fundraising goal before deadline, and did not want to incur any additional contributions.
+    Kickstarters that are cancelled but still meet their fundraising goal are not necessarily deemed successful. A kickstarter might be cancelled before deadline      because it was successful in its fundraising goal before its deadline and did not want to incur any additional contributions.
 
 - What are some other possible tables and/or graphs that we could create?
 
