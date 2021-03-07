@@ -20,9 +20,7 @@ The percentage of successful, failed, and canceled Kickstarters under the Plays 
 
 ### Challenges and Difficulties Encountered
 
-One challenge encountered was a discrepancy in the appearance of the expected chart vs the actual chart produced for Outcomes Based on Goals. Determined to be the result of an error in the data used for expected chart vs the data provided for the creation of the actual chart.
-
-![image](https://user-images.githubusercontent.com/5934390/110219628-6b903200-7e8e-11eb-87ae-c5b5123e40ff.png)
+One challenge encountered was with one of the specifications around analayzing outcomes based on goals. There was a specification to capture kickstarters that have a goal of greater than $50000, but the expected chart depicted greater than or equal to $50000. In order for the analysis chart to match the expected charge, the specification had to be changed from greater than to greater than or equal to. This most likely was a typo by whomever wrote the specifications, but it is important that the specifications are accurate in order to ensure data is captured precisely.
 
 ## Results
 
