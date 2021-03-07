@@ -16,7 +16,7 @@ The rate of success, failure and cancelled Kickstarters under the Theater Catego
 
 The percentage of successful, failed, and canceled Kickstarters under the Plays subcategory are compared based on their fundraising goal.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110219579-279d2d00-7e8e-11eb-9b54-4d4ab552581e.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/5934390/110250088-99857d00-7f47-11eb-8b24-2424a0927487.png)
 
 ### Challenges and Difficulties Encountered
 
